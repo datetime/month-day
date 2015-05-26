@@ -1,6 +1,6 @@
 # month-day [![NPM version](https://badge.fury.io/js/month-day.svg)](http://badge.fury.io/js/month-day)
 
-> Get the current day of the month.
+> Get the current day of the month, according to local time or UTC.
 
 ## Install
 

@@ -1,6 +1,6 @@
 {
   "name": "month-day",
-  "description": "Get the current day of the month.",
+  "description": "Get the current day of the month, according to local time or UTC.",
   "version": "0.1.0",
   "homepage": "https://github.com/datetime/month-day",
   "author": {
