@@ -1,0 +1,37 @@
+{
+  "name": "month-day",
+  "description": "Get the current day of the month.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/datetime/month-day",
+  "author": {
+    "name": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/datetime/month-day.git"
+  },
+  "bugs": {
+    "url": "https://github.com/datetime/month-day/issues"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/datetime/month-day/blob/master/LICENSE"
+  },
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "keywords": []
+}
