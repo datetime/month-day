@@ -26,6 +26,13 @@ day('UTC')
 //=> '26'
 ```
 
+Zero-fill the day (e.g. `1` => `01`):
+
+```js
+day('DD');
+//=> '01'
+```
+
 ## Related projects
 
 * [days](https://github.com/jonschlinkert/days): Days of the week.
